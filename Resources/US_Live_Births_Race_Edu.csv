@@ -1,0 +1,148 @@
+Notes,Mother's Single Race,Mother's Single Race Code,Mother's Education,Mother's Education Code,Births
+,American Indian or Alaska Native,1002-5,8th grade or less,1,1471
+,American Indian or Alaska Native,1002-5,9th through 12th grade with no diploma,2,6008
+,American Indian or Alaska Native,1002-5,High school graduate or GED completed,3,12969
+,American Indian or Alaska Native,1002-5,"Some college credit, but not a degree",4,8016
+,American Indian or Alaska Native,1002-5,"Associate degree (AA, AS)",5,2687
+,American Indian or Alaska Native,1002-5,"Bachelor's degree (BA, AB, BS)",6,2864
+,American Indian or Alaska Native,1002-5,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,958
+,American Indian or Alaska Native,1002-5,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,229
+,American Indian or Alaska Native,1002-5,Unknown or Not Stated,Unk,599
+,American Indian or Alaska Native,1002-5,Excluded,Exc,0
+,American Indian or Alaska Native,1002-5,Not Reported,NR,0
+Total,American Indian or Alaska Native,1002-5,,,35801
+,Asian,A,8th grade or less,1,4855
+,Asian,A,9th through 12th grade with no diploma,2,7704
+,Asian,A,High school graduate or GED completed,3,27021
+,Asian,A,"Some college credit, but not a degree",4,20980
+,Asian,A,"Associate degree (AA, AS)",5,13625
+,Asian,A,"Bachelor's degree (BA, AB, BS)",6,77222
+,Asian,A,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,52293
+,Asian,A,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,20399
+,Asian,A,Unknown or Not Stated,Unk,8637
+,Asian,A,Excluded,Exc,0
+,Asian,A,Not Reported,NR,0
+Total,Asian,A,,,232736
+,Black or African American,2054-5,8th grade or less,1,12489
+,Black or African American,2054-5,9th through 12th grade with no diploma,2,57035
+,Black or African American,2054-5,High school graduate or GED completed,3,210403
+,Black or African American,2054-5,"Some college credit, but not a degree",4,127677
+,Black or African American,2054-5,"Associate degree (AA, AS)",5,46627
+,Black or African American,2054-5,"Bachelor's degree (BA, AB, BS)",6,71899
+,Black or African American,2054-5,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,32490
+,Black or African American,2054-5,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,7154
+,Black or African American,2054-5,Unknown or Not Stated,Unk,8148
+,Black or African American,2054-5,Excluded,Exc,0
+,Black or African American,2054-5,Not Reported,NR,0
+Total,Black or African American,2054-5,,,573922
+,Native Hawaiian or Other Pacific Islander,NHOPI,8th grade or less,1,1090
+,Native Hawaiian or Other Pacific Islander,NHOPI,9th through 12th grade with no diploma,2,2550
+,Native Hawaiian or Other Pacific Islander,NHOPI,High school graduate or GED completed,3,5425
+,Native Hawaiian or Other Pacific Islander,NHOPI,"Some college credit, but not a degree",4,2724
+,Native Hawaiian or Other Pacific Islander,NHOPI,"Associate degree (AA, AS)",5,899
+,Native Hawaiian or Other Pacific Islander,NHOPI,"Bachelor's degree (BA, AB, BS)",6,1067
+,Native Hawaiian or Other Pacific Islander,NHOPI,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,286
+,Native Hawaiian or Other Pacific Islander,NHOPI,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,62
+,Native Hawaiian or Other Pacific Islander,NHOPI,Unknown or Not Stated,Unk,480
+,Native Hawaiian or Other Pacific Islander,NHOPI,Excluded,Exc,0
+,Native Hawaiian or Other Pacific Islander,NHOPI,Not Reported,NR,0
+Total,Native Hawaiian or Other Pacific Islander,NHOPI,,,14583
+,White,2106-3,8th grade or less,1,96611
+,White,2106-3,9th through 12th grade with no diploma,2,202393
+,White,2106-3,High school graduate or GED completed,3,671986
+,White,2106-3,"Some college credit, but not a degree",4,464883
+,White,2106-3,"Associate degree (AA, AS)",5,234210
+,White,2106-3,"Bachelor's degree (BA, AB, BS)",6,624736
+,White,2106-3,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,286256
+,White,2106-3,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,81702
+,White,2106-3,Unknown or Not Stated,Unk,42380
+,White,2106-3,Excluded,Exc,0
+,White,2106-3,Not Reported,NR,0
+Total,White,2106-3,,,2705157
+,More than one race,M,8th grade or less,1,1594
+,More than one race,M,9th through 12th grade with no diploma,2,9811
+,More than one race,M,High school graduate or GED completed,3,29891
+,More than one race,M,"Some college credit, but not a degree",4,25687
+,More than one race,M,"Associate degree (AA, AS)",5,8799
+,More than one race,M,"Bachelor's degree (BA, AB, BS)",6,18447
+,More than one race,M,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,7722
+,More than one race,M,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,2617
+,More than one race,M,Unknown or Not Stated,Unk,991
+,More than one race,M,Excluded,Exc,0
+,More than one race,M,Not Reported,NR,0
+Total,More than one race,M,,,105559
+,Unknown or Not Stated,UNK,8th grade or less,1,0
+,Unknown or Not Stated,UNK,9th through 12th grade with no diploma,2,0
+,Unknown or Not Stated,UNK,High school graduate or GED completed,3,0
+,Unknown or Not Stated,UNK,"Some college credit, but not a degree",4,0
+,Unknown or Not Stated,UNK,"Associate degree (AA, AS)",5,0
+,Unknown or Not Stated,UNK,"Bachelor's degree (BA, AB, BS)",6,0
+,Unknown or Not Stated,UNK,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,0
+,Unknown or Not Stated,UNK,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,0
+,Unknown or Not Stated,UNK,Unknown or Not Stated,Unk,0
+,Unknown or Not Stated,UNK,Excluded,Exc,0
+,Unknown or Not Stated,UNK,Not Reported,NR,0
+Total,Unknown or Not Stated,UNK,,,0
+,Not Available,NA,8th grade or less,1,0
+,Not Available,NA,9th through 12th grade with no diploma,2,0
+,Not Available,NA,High school graduate or GED completed,3,0
+,Not Available,NA,"Some college credit, but not a degree",4,0
+,Not Available,NA,"Associate degree (AA, AS)",5,0
+,Not Available,NA,"Bachelor's degree (BA, AB, BS)",6,0
+,Not Available,NA,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,0
+,Not Available,NA,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,0
+,Not Available,NA,Unknown or Not Stated,Unk,0
+,Not Available,NA,Excluded,Exc,0
+,Not Available,NA,Not Reported,NR,0
+Total,Not Available,NA,,,0
+,Not Reported,NR,8th grade or less,1,0
+,Not Reported,NR,9th through 12th grade with no diploma,2,0
+,Not Reported,NR,High school graduate or GED completed,3,0
+,Not Reported,NR,"Some college credit, but not a degree",4,0
+,Not Reported,NR,"Associate degree (AA, AS)",5,0
+,Not Reported,NR,"Bachelor's degree (BA, AB, BS)",6,0
+,Not Reported,NR,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,0
+,Not Reported,NR,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,0
+,Not Reported,NR,Unknown or Not Stated,Unk,0
+,Not Reported,NR,Excluded,Exc,0
+,Not Reported,NR,Not Reported,NR,0
+Total,Not Reported,NR,,,0
+Total,,,,,3667758
+---,,,,,
+"Dataset: Natality, 2007-2022",,,,,
+Query Parameters:,,,,,
+Title: Maternal health by age and eduction,,,,,
+Year: 2022,,,,,
+Group By: Mother's Single Race; Mother's Education,,,,,
+Show Totals: True,,,,,
+Show Zero Values: True,,,,,
+Show Suppressed: False,,,,,
+"Calculate Rates Per: 1,000",,,,,
+Population Option: No populations shown because rates were not selected.,,,,,
+---,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information.,,,,,
+---,,,,,
+"Query Date: Feb 9, 2024 11:47:39 AM",,,,,
+---,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2022, as compiled from data provided by",,,,,
+the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at,,,,,
+"http://wonder.cdc.gov/natality-current.html on Feb 9, 2024 11:47:39 AM",,,,,
+---,,,,,
+Caveats:,,,,,
+1. Each birth record represents one liveborn infant.,,,,,
+"2. <p> About Education and Prenatal Care data: Education and Prenatal Care data have been recoded to ""Excluded"" for births to",,,,,
+mothers residing in a reporting area that used the 1989 U.S. Standard Certificate of Live Birth in the specified data year. All,,,,,
+"reporting areas collect information on Education and Prenatal care, but information from the 2003 revision of the birth",,,,,
+certificate is not comparable to the information based on the earlier certificate. The following reporting areas have Education,,,,,
+"and Prenatal Care data coded to ""Excluded"": Alabama, 2007-2013; Alaska 2007-2012; Arizona 2007-2013; Arkansas 2007-2013;",,,,,
+Connecticut 2007-2015; District of Columbia 2007-2009; Georgia 2007; Hawaii 2007-2013; Illinois 2007-2009; Louisiana 2007-2010;,,,,,
+Maine 2007-2013; Maryland 2007-2009; Massachusetts 2007-2011; Michigan 2007; Minnesota 2007-2011; Mississippi 2007-2012;,,,,,
+Missouri 2007-2009; Montana 2007; Nevada 2007-2009; New Jersey 2007-2015; New Mexico 2007; New York (only counties comprising,,,,,
+New York City) 2007; North Carolina 2007-2010; Oklahoma 2007-2009; Oregon 2007; Rhode Island 2007-2014; Utah 2007-2008; Virginia,,,,,
+2007-2012; West Virginia 2007-2013; Wisconsin 2007-2010. </p> <p> Note the change from preceding years: Natality data for years,,,,,
+2003-2006 in CDC WONDER excluded Education and Prenatal Care data for the reporting areas that had adopted the 2003 U.S.,,,,,
+Standard Certificate of Live Birth. </p>,,,,,
+3. Single Race categories are not available for births before year 2016. Maternal single race data for years before 2016 are,,,,,
+"recoded to the Single Race category ""Not Available"". More information:",,,,,
+http://wonder.cdc.gov/wonder/help/Natality.html#About-Single-Race.,,,,,
