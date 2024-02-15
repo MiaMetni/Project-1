@@ -22,3 +22,5 @@ THIS INCREASED SUSCEPTIBILITY IS OBSERVED TO BE, IN PART, DUE TO THE IMPACT OF I
 WHILE NOT ALL FACTORS OF INFLUENCE COULD BE IDENTIFIED AS CAUSAL FACTORS, THE identification and evaluation of factors contributing to racial disparities is crucial to informing and implementing prevention strategies that will effectively reduce disparities in pregnancy-related mortality, including strategies to improve women's health and access to quality care in all maternal phases: preconception, pregnancy, and postpartum.
 
 4. Methodology: Crawled the web key words: maternal health, maternal mortality, live births, race, urban v. rural health outcome, Downloaded csvs from CDC and created dataframes from the associated data , Filtered rows where race demographic is ‘black/african american’, Removed extraneous rows like "Mother's Single Race Code", "Notes", "Mother's Education Code", etc.,Renamed column names when appropriate, Replace NaN values with 0, Leveraged matplotlib to create visualizations.
+
+PLEASE NOTE: file "VSSR_Black_Maternal_Death_Counts" exists outside of "Resources" folder bc file size not compatable with location
